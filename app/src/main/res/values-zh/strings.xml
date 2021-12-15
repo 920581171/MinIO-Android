@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MinIO</string>
+    <string name="menu_dashboard">仪表盘</string>
+    <string name="menu_bucket">存储桶</string>
+    <string name="menu_user">用户</string>
+    <string name="fab_content_description">添加</string>
+    <string name="nav_header_desc">导航头部</string>
+    <string name="action_settings">设置</string>
 </resources>
